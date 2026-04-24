@@ -20,6 +20,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Demo Server: [https://gora.kevinloquencio.it.com](https://gora.kevinloquencio.it.com) 
+
 ## References
 
 To learn more about Next.js, take a look at the following resources:
